@@ -2,7 +2,7 @@ Data Science Projects Repository
 Welcome to my repository of Data Science projects. Here you will find various projects that I have worked on in the field of Data Science. These projects are designed to showcase my skills and expertise in the field of Data Science.
 
 Projects Included in this Repository
-Olist: [Title of Project 1](link to project 1)
+* Olist: [Title of Project 1](link to project 1)
 
 Tools and Technologies Used
 In these projects, I have used a variety of tools and technologies including Python, Jupyter Notebook, Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, and more. Each project may have its own specific set of technologies used, which will be outlined in the project's README file.
