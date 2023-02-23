@@ -4,7 +4,7 @@ Welcome to my repository of Data Science projects. Here you will find various pr
 
 ## **Projects Included in this Repository**
 
-- Olist: [Title of Project 1](link to project 1)
+- Olist: [Satisfaction Prediction](https://github.com/GustavoFelici/Data-Science/tree/main/Olist)
 
 ## **Tools and Technologies Used**
 
