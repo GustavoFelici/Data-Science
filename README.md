@@ -5,9 +5,6 @@ Welcome to my repository of Data Science projects. Here you will find various pr
 ## **Projects Included in this Repository**
 
 - Olist: [Title of Project 1](link to project 1)
-- Project 2: [Title of Project 2](link to project 2)
-- Project 3: [Title of Project 3](link to project 3)
-- Project 4: [Title of Project 4](link to project 4)
 
 ## **Tools and Technologies Used**
 
