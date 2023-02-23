@@ -11,4 +11,4 @@ How to Use this Repository
 To use this repository, simply navigate to the project you are interested in and follow the instructions in the project's README file. Each project will include a detailed explanation of the problem being solved, the data used, the methodology employed, and the results obtained.
 
 Contact Me
-If you have any questions or comments about any of the projects in this repository, feel free to contact me at [gustavo_felici@hotmail.com]. I am always happy to discuss my work and answer any questions you may have.
+If you have any questions or comments about any of the projects in this repository, feel free to contact me at gustavo_felici@hotmail.com. I am always happy to discuss my work and answer any questions you may have.
