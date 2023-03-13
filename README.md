@@ -5,7 +5,7 @@ Welcome to my repository of Data Science projects. Here you will find various pr
 ## **Projects Included in this Repository**
 
 - Olist: [Satisfaction Prediction](https://github.com/GustavoFelici/Data-Science/tree/main/Olist) #Tags: SQL, Classification
-- (Working) House Prices: [Sale Price Prediction](https://github.com/GustavoFelici/Data-Science/tree/main/House%20Prices) #Tags: Regression 
+- (Working...) House Prices: [Sale Price Prediction](https://github.com/GustavoFelici/Data-Science/tree/main/House%20Prices) #Tags: Regression 
 
 ## **Tools and Technologies Used**
 
