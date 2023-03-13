@@ -17,8 +17,6 @@ Este projeto foi implementado em Python e utiliza diversas bibliotecas populares
 - Seaborn
 - CatBoost
 
-As versões específicas das bibliotecas podem ser encontradas no arquivo **`requirements.txt`**.
-
 ## **Workflow**
 
 Este projeto segue um workflow comum para problemas de machine learning:
