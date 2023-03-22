@@ -32,7 +32,7 @@ Foi adicionado um filtro dropdown de ano para que o usuário possa selecionar o 
 
 ## **Link para download**
 
-O projeto pode ser baixado através do seguinte [link](https://drive.google.com/file/d/14RLiaH3OCFjYVVco33YbEc-qD8eh7Xi5/view](https://drive.google.com/file/d/14RLiaH3OCFjYVVco33YbEc-qD8eh7Xi5/view)
+O projeto pode ser baixado através do seguinte [link](https://drive.google.com/file/d/14RLiaH3OCFjYVVco33YbEc-qD8eh7Xi5/view)
 
 ## **Agradecimentos**
 
