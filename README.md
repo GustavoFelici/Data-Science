@@ -6,6 +6,7 @@ Welcome to my repository of Data Science projects. Here you will find various pr
 
 - House Prices: [Sale Price Prediction](https://github.com/GustavoFelici/Data-Science/tree/main/House%20Prices) #Tags: Regression 
 - Olist: [Satisfaction Prediction](https://github.com/GustavoFelici/Data-Science/tree/main/Olist) #Tags: SQL, Classification
+- Olist [Power BI - Dashboard Faturamento](https://github.com/GustavoFelici/Data-Science/tree/main/Power%20BI%20-%20Olist%20(Faturamento)) # Tags: Power BI, Data Analytics
 
 ## **Tools and Technologies Used**
 
