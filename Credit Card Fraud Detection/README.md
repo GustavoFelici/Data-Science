@@ -19,13 +19,6 @@ Our project workflow consisted of the following stages:
 5. **Optimized Algorithm Performance:** After hyperparameter tuning, we evaluated the performance of the optimized algorithms.
 6. **Conclusion:** In the final stage, we drew conclusions based on the results obtained and discussed the effectiveness of the various techniques and algorithms used in this project.
 
-## **Repository Navigation**
-
-- **`data`**: contains the raw and processed data used in the project.
-- **`notebooks`**: contains the Jupyter notebooks used to perform the data exploration, preprocessing, modeling, and evaluation stages.
-- **`results`**: contains the evaluation metrics and visualizations generated during the project.
-- **`README.md`**: provides an overview of the project.
-
 ## **Dependencies**
 
 The project was developed using Python 3.9.7 and the following packages:
