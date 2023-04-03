@@ -4,7 +4,7 @@ Welcome to my repository of Data Science projects. Here you will find various pr
 
 ## **Projects Included in this Repository**
 - Credit Card Fraud Detection: [Fraud Detection Mastery ML, Techniques Full Workflow & Results 🕵️💳](https://github.com/GustavoFelici/Data-Science/tree/main/Credit%20Card%20Fraud%20Detection) #Tags: Classification, Unbalanced Target Techniques
-- (Playground Series S3, EP 11)[https://github.com/GustavoFelici/Data-Science/tree/main/Playground%20Series%20S3%2C%20EP%2011] #Tags: Regression 
+- [Playground Series S3, EP 11](https://github.com/GustavoFelici/Data-Science/tree/main/Playground%20Series%20S3%2C%20EP%2011) #Tags: Regression 
 - House Prices: [Sale Price Prediction](https://github.com/GustavoFelici/Data-Science/tree/main/House%20Prices) #Tags: Regression 
 - Olist: [Satisfaction Prediction](https://github.com/GustavoFelici/Data-Science/tree/main/Olist) #Tags: SQL, Classification
 - Olist [Power BI - Dashboard Faturamento](https://github.com/GustavoFelici/Data-Science/tree/main/Power%20BI%20-%20Olist%20(Faturamento)) # Tags: Power BI, Data Analytics
