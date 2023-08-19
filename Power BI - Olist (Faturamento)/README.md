@@ -30,12 +30,10 @@ Além disso, os principais indicadores no topo do dashboard são:
 
 Foi adicionado um filtro dropdown de ano para que o usuário possa selecionar o ano desejado para visualizar as análises de faturamento.
 
-## **Link para download**
+## **Link para Visualizar**
 
-O projeto pode ser baixado através do seguinte [link](https://drive.google.com/file/d/14RLiaH3OCFjYVVco33YbEc-qD8eh7Xi5/view)
+[Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjc1YWQ1ZjItNjM3MS00ZDA0LWEzZmYtN2UxNGQ0M2U1OTZjIiwidCI6ImNkNWU2ZDIzLWNiOTktNDE4OS04OGFiLTFhOTAyMWEwYzQ1MSJ9)
 
 ## **Agradecimentos**
 
 Agradeço à Awari e à Kaggle pela disponibilização do curso e do dataset, respectivamente, que foram essenciais para a realização deste projeto. Também gostaria de agradecer a todos que tiverem curiosidade em conhecer o meu projeto e espero que seja útil para quem precisar.
-
-<iframe title="Report Section" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiZjgzYjQyZDktNGFhYy00Y2IwLTkwMmMtMTBlYjdhNDVhMTUyIiwidCI6ImNkNWU2ZDIzLWNiOTktNDE4OS04OGFiLTFhOTAyMWEwYzQ1MSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
